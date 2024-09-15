@@ -1,0 +1,99 @@
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt_MarkupCompile.cache
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.g.resources
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfoInputs.cache
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfo.cs
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.dll
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\refint\Projekt.dll
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.pdb
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.genruntimeconfig.cache
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\ref\Projekt.dll
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\AddApointmentWindow.g.cs
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt_MarkupCompile.lref
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\AddApointmentWindow.baml
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\ShowAppointments.g.cs
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\ShowAppointments.baml
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.AssemblyReference.cache
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.CopyComplete
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\PricesWindow.g.cs
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\PricesWindow.baml
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\ReviewsWindow.g.cs
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\WorkersWindow.g.cs
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\ReviewsWindow.baml
+C:\Users\rudy\Desktop\kantor chuj\Projekt\Projekt\obj\Debug\net6.0-windows\WorkersWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.AssemblyReference.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\AddApointmentWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\PricesWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ReviewsWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ShowAppointments.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\WorkersWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt_MarkupCompile.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt_MarkupCompile.lref
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\AddApointmentWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\PricesWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ReviewsWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ShowAppointments.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\WorkersWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.g.resources
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfoInputs.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfo.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.CopyComplete
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\refint\Projekt.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.pdb
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.genruntimeconfig.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ref\Projekt.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.AssemblyReference.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\AddApointmentWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\PricesWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ReviewsWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ShowAppointments.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\WorkersWindow.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt_MarkupCompile.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt_MarkupCompile.lref
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\AddApointmentWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\PricesWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ReviewsWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ShowAppointments.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\WorkersWindow.baml
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.g.resources
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfoInputs.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.AssemblyInfo.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\refint\Projekt.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.pdb
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.genruntimeconfig.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\ref\Projekt.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\Projekt\Projekt\obj\Debug\net6.0-windows\Projekt.csproj.Up2Date

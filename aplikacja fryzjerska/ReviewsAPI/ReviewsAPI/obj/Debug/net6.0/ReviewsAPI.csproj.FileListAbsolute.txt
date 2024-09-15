@@ -1,0 +1,96 @@
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.exe
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.deps.json
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.runtimeconfig.json
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.dll
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.pdb
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.csproj.AssemblyReference.cache
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.AssemblyInfoInputs.cache
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.AssemblyInfo.cs
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.csproj.CoreCompileInputs.cache
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.ReviewsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ReviewsAPI.props
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReviewsAPI.props
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReviewsAPI.props
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\scopedcss\bundle\ReviewsAPI.styles.css
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.csproj.CopyComplete
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.dll
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\refint\ReviewsAPI.dll
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.pdb
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.genruntimeconfig.cache
+C:\Users\rudy\Desktop\kantor chuj\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ref\ReviewsAPI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.exe
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.deps.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.runtimeconfig.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.pdb
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.csproj.AssemblyReference.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.AssemblyInfoInputs.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.AssemblyInfo.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.csproj.CoreCompileInputs.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.ReviewsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ReviewsAPI.props
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReviewsAPI.props
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReviewsAPI.props
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\scopedcss\bundle\ReviewsAPI.styles.css
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.csproj.CopyComplete
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\refint\ReviewsAPI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.pdb
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.genruntimeconfig.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ref\ReviewsAPI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.exe
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.deps.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.runtimeconfig.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\ReviewsAPI.pdb
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.csproj.AssemblyReference.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.AssemblyInfoInputs.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.AssemblyInfo.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.csproj.CoreCompileInputs.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.ReviewsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ReviewsAPI.props
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReviewsAPI.props
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReviewsAPI.props
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\scopedcss\bundle\ReviewsAPI.styles.css
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\refint\ReviewsAPI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.pdb
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.genruntimeconfig.cache
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ref\ReviewsAPI.dll
+C:\Users\rudy\Desktop\aplikacja fryzjerska\aplikacja fryzjerska\ReviewsAPI\ReviewsAPI\obj\Debug\net6.0\ReviewsAPI.csproj.Up2Date

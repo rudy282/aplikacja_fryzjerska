@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rudy\\Desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\ReviewsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{540E5255-DA24-4EBA-87E1-A40FE6980CF4}|ReviewsAPI\\ReviewsAPI.csproj|c:\\users\\rudy\\desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\reviewsapi\\reviewsapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540E5255-DA24-4EBA-87E1-A40FE6980CF4}|ReviewsAPI\\ReviewsAPI.csproj|solutionrelative:reviewsapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540E5255-DA24-4EBA-87E1-A40FE6980CF4}|ReviewsAPI\\ReviewsAPI.csproj|c:\\users\\rudy\\desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\reviewsapi\\reviewsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{540E5255-DA24-4EBA-87E1-A40FE6980CF4}|ReviewsAPI\\ReviewsAPI.csproj|solutionrelative:reviewsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540E5255-DA24-4EBA-87E1-A40FE6980CF4}|ReviewsAPI\\ReviewsAPI.csproj|c:\\users\\rudy\\desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\reviewsapi\\reviewsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540E5255-DA24-4EBA-87E1-A40FE6980CF4}|ReviewsAPI\\ReviewsAPI.csproj|solutionrelative:reviewsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540E5255-DA24-4EBA-87E1-A40FE6980CF4}|ReviewsAPI\\ReviewsAPI.csproj|c:\\users\\rudy\\desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\reviewsapi\\reviewsapi\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540E5255-DA24-4EBA-87E1-A40FE6980CF4}|ReviewsAPI\\ReviewsAPI.csproj|solutionrelative:reviewsapi\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rudy\\Desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\ReviewsAPI\\ReviewsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ReviewsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\rudy\\Desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\ReviewsAPI\\ReviewsAPI\\appsettings.json",
+              "RelativeToolTip": "ReviewsAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T22:37:56.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\rudy\\Desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\ReviewsAPI\\ReviewsAPI\\Review.cs",
+              "RelativeDocumentMoniker": "ReviewsAPI\\Review.cs",
+              "ToolTip": "C:\\Users\\rudy\\Desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\ReviewsAPI\\ReviewsAPI\\Review.cs",
+              "RelativeToolTip": "ReviewsAPI\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:37:57.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\rudy\\Desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\ReviewsAPI\\ReviewsAPI\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "ReviewsAPI\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\rudy\\Desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\ReviewsAPI\\ReviewsAPI\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "ReviewsAPI\\Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:37:57.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rudy\\Desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\ReviewsAPI\\ReviewsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ReviewsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\rudy\\Desktop\\aplikacja fryzjerska\\aplikacja fryzjerska\\ReviewsAPI\\ReviewsAPI\\Program.cs",
+              "RelativeToolTip": "ReviewsAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:37:57.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

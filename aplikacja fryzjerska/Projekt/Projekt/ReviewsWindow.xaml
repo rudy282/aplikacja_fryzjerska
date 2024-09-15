@@ -1,0 +1,27 @@
+﻿<Window x:Class="Projekt.ReviewsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekt"
+        mc:Ignorable="d"
+        Title="Opinie klientów" Height="450" Width="800">
+    <Grid>
+        <ListView ItemsSource="{Binding Reviews}" Margin="10">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="5" Padding="10" Margin="5">
+                        <StackPanel>
+                            <TextBlock Text="{Binding Author}" FontWeight="Bold" FontSize="16"/>
+                            <TextBlock Text="{Binding Description}" TextWrapping="Wrap" Margin="0,5,0,10"/>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="/star.png" Width="16" Height="16" VerticalAlignment="Center"/>
+                                <TextBlock Text="{Binding Stars}" Margin="5,0,0,0" VerticalAlignment="Center" Foreground="Gold" FontWeight="Bold"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Window>

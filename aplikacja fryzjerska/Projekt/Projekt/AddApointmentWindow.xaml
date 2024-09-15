@@ -1,0 +1,38 @@
+﻿<Window x:Class="Projekt.AddApointmentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekt"
+        mc:Ignorable="d"
+        Title="Dodaj wizytę" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <Image Source="/hairdresser.jpg" Height="120"/>
+            <TextBlock Text="Imie gościa:" />
+            <TextBox Name="CustomerNameTextBox" Margin="0,0,0,10" />
+
+            <TextBlock Text="Data wizyty:" />
+            <DatePicker Name="AppointmentDatePicker" Margin="0,0,0,10" />
+
+            <TextBlock Text="Czas spotkania:" />
+            <TextBox Name="AppointmentTimeTextBox" Margin="0,0,0,10" />
+
+            <TextBlock Text="Rodzaj wizyty:" />
+            <ComboBox Name="ServiceTypeComboBox" Margin="0,0,0,10">
+                <ComboBoxItem Content="Cięcie" />
+                <ComboBoxItem Content="Kolorowanie" />
+                <ComboBoxItem Content="Układanie" />
+            </ComboBox>
+
+            <TextBlock Text="Rodzaj gościa:" Margin="0,10,0,0" />
+            <StackPanel Orientation="Horizontal">
+                <RadioButton Name="MenRadioButton" Content="Mężczyzna" GroupName="CustomerType" Margin="0,0,10,0"/>
+                <RadioButton Name="WomenRadioButton" Content="Kobieta" GroupName="CustomerType" Margin="0,0,10,0"/>
+                <RadioButton Name="ChildRadioButton" Content="Dziecko" GroupName="CustomerType"/>
+            </StackPanel>
+
+            <Button Content="Umów wizytę" Name="AddAppointmentButton" Width="150" HorizontalAlignment="Center" Click="AddAppointmentButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

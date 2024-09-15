@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="haidresser_main.jpg" />
+    <None Remove="hairdresser.jpg" />
+    <None Remove="star.png" />
+    <None Remove="worker1.jpg" />
+    <None Remove="worker2.jpg" />
+    <None Remove="worker3.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="haidresser_main.jpg" />
+    <Resource Include="hairdresser.jpg" />
+    <Resource Include="star.png" />
+    <Resource Include="worker1.jpg" />
+    <Resource Include="worker2.jpg" />
+    <Resource Include="worker3.jpg" />
+  </ItemGroup>
+
+</Project>

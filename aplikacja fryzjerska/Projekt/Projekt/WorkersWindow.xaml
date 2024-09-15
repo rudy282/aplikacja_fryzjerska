@@ -1,0 +1,36 @@
+﻿<Window x:Class="Projekt.WorkersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekt"
+        mc:Ignorable="d"
+        Title="Pracownicy" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Image Grid.Column="0" Grid.Row="0" Height="142" Width="142" Source="/worker1.jpg" Stretch="UniformToFill" Margin="10"/>
+        <Label Grid.Column="0" Grid.Row="1" Content="Anna Kowalska" HorizontalAlignment="Center" Margin="10" FontWeight="Bold" FontSize="20"/>
+        <TextBlock Grid.Column="0" Grid.Row="2" Text="Doświadczona stylistka z 10-letnim doświadczeniem. Specjalizuje się w cięciu damskich włosów oraz koloryzacji." 
+                   TextWrapping="Wrap" Margin="10" Width="200" TextAlignment="Center"/>
+
+        <Image Grid.Column="1" Grid.Row="0" Height="142" Width="142" Stretch="UniformToFill" Margin="10" Source="/worker3.jpg"/>
+        <Label Grid.Column="1" Grid.Row="1" Content="Piotr Nowak" HorizontalAlignment="Center" Margin="10" FontWeight="Bold" FontSize="20"/>
+        <TextBlock Grid.Column="1" Grid.Row="2" Text="Ekspert w strzyżeniu męskim z 8-letnim doświadczeniem. Specjalizuje się w klasycznych i nowoczesnych fryzurach." 
+                   TextWrapping="Wrap" Margin="10" Width="200" TextAlignment="Center"/>
+
+        <Image Grid.Column="2" Grid.Row="0" Height="142" Width="142" Source="/worker2.jpg" Stretch="UniformToFill" Margin="10"/>
+        <Label Grid.Column="2" Grid.Row="1" Content="Katarzyna Wiśniewska" HorizontalAlignment="Center" Margin="10" FontWeight="Bold" FontSize="20"/>
+        <TextBlock Grid.Column="2" Grid.Row="2" Text="Specjalistka w koloryzacji i pielęgnacji włosów z 12-letnim doświadczeniem. Profesjonalistka w każdym calu." 
+                   TextWrapping="Wrap" Margin="10" Width="200" TextAlignment="Center"/>
+    </Grid>
+</Window>
